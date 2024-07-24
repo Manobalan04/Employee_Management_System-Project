@@ -1,0 +1,9 @@
+package com.example.project.emp.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.example.project.emp.entity.EmployeeEntity;
+
+public interface EmployeeRepository extends JpaRepository<EmployeeEntity, Long>{
+
+}

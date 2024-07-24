@@ -1,0 +1,5 @@
+package com.example.project.emp.exception;
+
+public class ResourceNotFoundException {
+
+}

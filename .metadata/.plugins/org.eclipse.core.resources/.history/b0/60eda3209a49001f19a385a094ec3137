@@ -1,0 +1,7 @@
+package com.example.project.emp.exception;
+
+public class ResourceNotFoundException extends RuntimeException{
+
+	private static final long serialVersionUID = 1L;
+
+}
